@@ -1,0 +1,13 @@
+div{
+    width: 300px;
+    margin: 0 auto;
+    background: linear-gradient(45deg,pink, lightblue);
+    border: 2px solid black;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+input{
+    width: 100px;
+    margin: 5px;
+}
